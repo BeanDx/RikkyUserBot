@@ -23,18 +23,3 @@ RikkyUserBot - это ваш интерактивный многофункцио
  ○ Низкая ресурсозатраность  
 
  ○ Открытый исходный код  
-
-
-
-
-
-Создатель (https://t.me/PearDe)
-
-
-GitHub проекта (https://github.com/TreeHack/RikkyUserBot)
-
-
-Список команд (https://telegra.ph/AKTUALNYJ-SPISOK-KOMAND-RikkyUserBot-11-28)
-
-
-Дизайнер (https://t.me/kipt_kate)
